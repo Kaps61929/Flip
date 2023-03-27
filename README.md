@@ -1,4 +1,4 @@
-# TikTok
+# Flip
 
 A Social Media App referenced from tiktok
 
