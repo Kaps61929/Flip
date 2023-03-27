@@ -2,16 +2,25 @@ import 'package:flutter/material.dart';
 import 'package:tiktok/constants.dart';
 
 class TextInputField extends StatelessWidget {
-  const TextInputField({super.key});
+  TextEditingController controller;
+  final String labeltext;
+  final bool isobscure;
+  final IconData icon;
+  TextInputField(
+      {super.key,
+      required this.controller,
+      required this.labeltext,
+      required this.isobscure,
+      required this.icon});
 
   @override
   Widget build(BuildContext context) {
     return TextField(
-      controller: ct,
-      obscureText: nn,
+      controller: controller,
+      obscureText: isobscure,
       decoration: InputDecoration(
-        labelText: lbtxt,
-        prefixIcon: Icon(Icons.abc_outlined),
+        labelText: labeltext,
+        prefixIcon: Icon(icon),
         labelStyle: TextStyle(
           fontSize: 18,
         ),
