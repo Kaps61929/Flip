@@ -19,11 +19,13 @@ A Social Media App referenced from tiktok
 ## Screenshots
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/115138974/228755029-b37d646d-f571-4360-a936-ba20cc7ca5b9.jpg" height ="400" width ="200">
-<img src="https://user-images.githubusercontent.com/115138974/228755050-103934c9-eb5e-479c-89d6-4940171bb248.jpg" height ="400" width ="200">
-<img src="https://user-images.githubusercontent.com/115138974/228757329-262cb3fc-48aa-41b7-a03b-820949f9ace9.jpg" height ="400" width ="200">
- <img src="https://user-images.githubusercontent.com/115138974/228757649-ec52e812-97fb-407b-97b0-7e2b6ff9e06f.jpg" height ="400" width ="200">
- <img src="https://user-images.githubusercontent.com/115138974/228757668-26211d7e-585a-415e-a0f0-a3c593afe2f6.jpg" height ="400" width ="200">
+<img src="https://user-images.githubusercontent.com/115138974/228760371-854b1770-23c0-4880-ad2a-cec11d98c877.jpg" height ="400" width ="200">
+<img src="https://user-images.githubusercontent.com/115138974/228760389-26ee83cb-5202-41d7-b778-4a7f4a0f34fc.jpg" height ="400" width ="200">
+<img src="https://user-images.githubusercontent.com/115138974/228760401-cacc2311-0a54-46e2-9b60-c944aab37736.jpg" height ="400" width ="200">
+ <img src="https://user-images.githubusercontent.com/115138974/228760411-ae5130a5-454d-4463-a8be-d6f991536205.jpg" height ="400" width ="200">
+ <img src="https://user-images.githubusercontent.com/115138974/228760425-a4d9fc64-ae9e-4180-a5d3-589f49dc049a.jpg" height ="400" width ="200">
+  <img src="https://user-images.githubusercontent.com/115138974/228760451-10e42be7-2cec-4f65-9972-9c274910c320.jpg" height ="400" width ="200">
+ <img src="https://user-images.githubusercontent.com/115138974/228760476-0658141a-9ad9-44f2-a527-316dbe9a90d8.jpg" height ="400" width ="200">
   </p>
 
 ## Installation
