@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/115138974/228761222-70da45fe-1266-4125
 
 
 ## Installation
-After cloning this repository, migrate to ```tiktok-flutter-clone``` folder. Then, follow the following steps:
+After cloning this repository, migrate to ```Flip``` folder. Then, follow the following steps:
 - Create Firebase Project
 - Enable Authentication
 - Make Firestore Rules
