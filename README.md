@@ -16,7 +16,7 @@ A Social Media App referenced from tiktok
 - Displaying Followers, Following, Likes & Posts of User
 - TikTok Like UI
 
-
+## Screenshots
 
 ## Installation
 After cloning this repository, migrate to ```tiktok-flutter-clone``` folder. Then, follow the following steps:
