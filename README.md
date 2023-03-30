@@ -27,6 +27,14 @@ A Social Media App referenced from tiktok
   <img src="https://user-images.githubusercontent.com/115138974/228760451-10e42be7-2cec-4f65-9972-9c274910c320.jpg" height ="400" width ="200">
  <img src="https://user-images.githubusercontent.com/115138974/228760476-0658141a-9ad9-44f2-a527-316dbe9a90d8.jpg" height ="400" width ="200">
   </p>
+  
+ ## Demo
+ 
+ 
+
+https://user-images.githubusercontent.com/115138974/228761222-70da45fe-1266-4125-b4b3-aefcd1ec91e0.mp4
+
+
 
 ## Installation
 After cloning this repository, migrate to ```tiktok-flutter-clone``` folder. Then, follow the following steps:
