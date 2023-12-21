@@ -48,7 +48,7 @@ Then run the following commands to run your app:
   open -a simulator (to get iOS Simulator)
   flutter run
 ```
-
+**APK**-https://drive.google.com/file/d/1lkJIGoTHxmJepHCaSxRfldBeR3lVlafn/view?usp=sharing
 ## Tech Used
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
 
