@@ -36,6 +36,11 @@ https://user-images.githubusercontent.com/115138974/228761222-70da45fe-1266-4125
 
 
 
+
+**APK**-https://drive.google.com/file/d/1lkJIGoTHxmJepHCaSxRfldBeR3lVlafn/view?usp=sharing
+
+
+
 ## Installation
 After cloning this repository, migrate to ```Flip``` folder. Then, follow the following steps:
 - Create Firebase Project
@@ -48,7 +53,7 @@ Then run the following commands to run your app:
   open -a simulator (to get iOS Simulator)
   flutter run
 ```
-**APK**-https://drive.google.com/file/d/1lkJIGoTHxmJepHCaSxRfldBeR3lVlafn/view?usp=sharing
+
 ## Tech Used
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
 
